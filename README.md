@@ -6,8 +6,7 @@
   Email      : mianuuraini305@gmail.com
   Linkedin   : mianuuraini
   Site       : https://bit.ly/mianuuraini
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 cldwtrmln/cldwtrmln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
